@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Login Page</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+
+<body >
+    <div class="login-container">
+        <header>
+            <img src="./img/logo.png" alt="Your App Logo" class="logo">
+            <a href="signup.html" class="download-app">Sign Up</a>
+        </header>
+        <form action="/login" method="post" class="login-form">
+            <input type="email" id="username" name="username" placeholder="Email" required>
+            <input type="password" id="password" name="password" placeholder="Password" required>
+            <button type="submit" class="sign-in-button">Sign In</button>
+        </form>
+        
+        <div class="divider">
+            <hr class="line" />
+            <span class="or">or</span>
+            <hr class="line" />
+        </div>
+        <button class="auth-passkeys" id="loginBtn">
+            <img src="./img/fingur.png" alt="Apple Logo" class="auth-icon">
+            Sign in with passkeys</button>
+
+        <div class="auth-options">
+            <button class="auth-google" id="googleLogin">
+                <img src="./img/google.png" alt="Google Logo" class="auth-icon">
+                Continue with Google</button>
+        </div>
+
+        <div class="auth-options">
+            <button class="auth-github" id="githubLogin">
+                <img src="./img/github.png" alt="github Logo" class="auth-icon">
+                Continue with Github</button>           
+        </div>
+
+        <!-- <div class="auth-options">
+            <button class="auth-facebook">
+                <img src="./img/facebook.png" alt="Google Logo" class="auth-icon">
+                Continue with Facebook</button>           
+        </div> -->
+      
+    </div>
+    <script src="./auth.js" type="module"></script>
+
+
+    <div>
+        <div class="wave"></div>
+        <div class="wave"></div>
+        <div class="wave"></div>
+     </div>
+</body>
+
+</html>

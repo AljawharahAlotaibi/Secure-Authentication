@@ -1,0 +1,84 @@
+{
+  "A@joj.com": {
+    "username": "A@joj.com",
+    "password": "$2b$10$g/X.6sQvrbM4arUSmXN0I.CSC8j2GV07AhO98j7ZHkloPX6aR3XYu"
+  },
+  "as1": {
+    "devices": [
+      {
+        "credentialPublicKey": "pQECAyYgASFYID6y7i-_TdBTJAUCLELDkvaYRmgofnnA-HISSv8fpcWOIlggFj1_eUdbOWN-cA72eH2IOE9yvJQs50BfbpPnSHvqGPY",
+        "credentialID": "2JxXFz8v2UNQNvhwVnwnV-ZAgq6rnUzEhm4RHIyxfyA",
+        "transports": [
+          "internal"
+        ]
+      }
+    ],
+    "userID": "YXMx",
+    "userName": "as1"
+  },
+  "jojo": {
+    "devices": [
+      {
+        "credentialPublicKey": "pQECAyYgASFYIE7--q3aaIWKEDxExyDKVuk5_IOtav6GKPeEoMXtTmT-Ilgg_kkUVVHXN3HBDFaa102T2GWMByF0mpBj2pN8yAr4K9U",
+        "credentialID": "V-qZZIr07JJy_OfOTD-dYwdc9qz7MfiYJRTx_VMLzIo",
+        "transports": [
+          "internal"
+        ]
+      }
+    ],
+    "userID": "am9qbw",
+    "userName": "jojo"
+  },
+  "jojo1": {
+    "devices": [
+      {
+        "credentialPublicKey": "pQECAyYgASFYIIlfbAUbwASXOcLShURnh_RbO6SaUwdqkFFbcI2NQEmpIlgglmar8ypkLudrFpOM3QC9IBhjPHnT25vmkwcb7V5j9UE",
+        "credentialID": "rCY93DKtv7WGgHci04uGH8XXc5QethRbaBB0ymyrsAI",
+        "transports": [
+          "internal"
+        ]
+      }
+    ],
+    "userID": "am9qbzE",
+    "userName": "jojo1"
+  },
+  "joooooooooooooj": {
+    "devices": [
+      {
+        "credentialPublicKey": "pQECAyYgASFYIBcPz3wMf2b7mmGLg5WqEdPHYKC_Ij-68uxMovJEBhtHIlggn-ue41dflTiBDMLtmcbvHXzCq262LCRjfdfXVsvAybU",
+        "credentialID": "ygYLbJJGwQXIFUZEgY21_uz2oagdTyTF3Qq5adHxSa8",
+        "transports": [
+          "internal"
+        ]
+      }
+    ],
+    "userID": "am9vb29vb29vb29vb29q",
+    "userName": "joooooooooooooj"
+  },
+  "jooooooooj": {
+    "devices": [
+      {
+        "credentialPublicKey": "pQECAyYgASFYIIxCOFLz_8Nirok878iwyJe5FSXhlH0SJmmI3uC74LcEIlggn0hUiA2OncZFNuj29J6xldBKNe-8-JGxOnllDSQGdO4",
+        "credentialID": "YrLZGX7NgqazF4qnzwQ81J7MMqtmTnYbtGTSie7WCE8",
+        "transports": [
+          "internal"
+        ]
+      }
+    ],
+    "userID": "am9vb29vb29vag",
+    "userName": "jooooooooj"
+  },
+  "lasttest": {
+    "devices": [
+      {
+        "credentialPublicKey": "pQECAyYgASFYIHjXegJ0iW8rnxccZD_53B8qVvfaJuEtqwOfyjUAqBC9IlggTh_XkUm364Mb4RyaeqUMl0d7MzOHevT0gjYqaE0kkWU",
+        "credentialID": "8u9r4ZRGg7uIHDvLhXLY_x9YRS3ia989032oFMEE6UQ",
+        "transports": [
+          "internal"
+        ]
+      }
+    ],
+    "userID": "bGFzdHRlc3Q",
+    "userName": "lasttest"
+  }
+}
